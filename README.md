@@ -122,14 +122,4 @@ Apaixonado pela engenharia e tecnologia, compartilho meus conhecimento através 
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=waine-r&locale=pt-br&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
----
