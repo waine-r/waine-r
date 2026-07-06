@@ -1,4 +1,4 @@
-# ⚙️🧑🏻‍💻 Herik Wainer
+# ⚙️🧑🏻‍💻 Herik
 
 **`Engenheiro Civil pós graduado em Engenharia de Software`**
 
