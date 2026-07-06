@@ -1,8 +1,5 @@
-# ⚙️🧑🏻‍💻 Herik
+# ⚙️🧑🏻‍💻 Waine-r
 
-**`Engenheiro Civil pós graduado em Engenharia de Software`**
-
-Me chamo Herik, Graduado em Engenharia civil e pós graduado em Engenhria de Software.
 
 
 ---
