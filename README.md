@@ -1,11 +1,8 @@
-# ⚙️🧑🏻‍💻 Herik Lima
+# ⚙️🧑🏻‍💻 Herik Wainer
 
 **`Engenheiro Civil pós graduado em Engenharia de Software`**
 
-Me chamo Herik Wainer Franco Lima sou natura de Juiz de Fora/ MG. Graduado em Engenharia civil pelo Centro Universitário Estácio Juiz de Fora em 2020 e pós graduado em Engenhria de Software pela Universidade Cruzeiro do Sul Juiz de Fora em 2026.
-
-Apaixonado pela engenharia e tecnologia, compartilho meus conhecimento através de conteúdos em meu canal do YouTube "[Wainer Engenharia](https://www.youtube.com/@Wainer_Engenharia)" e também pelo instagram "[@Wainer_Engenharia](https://www.instagram.com/wainer_engenharia)" onde abordo temas da Engenharia civil e com previsão de começar a integrar o assunto com projetos voltados a tecnologia, programação e desenvolvimento de projetos.
-
+Me chamo Herik, Graduado em Engenharia civil e pós graduado em Engenhria de Software.
 
 <p align="left">
     <a href="https://www.youtube.com/@Wainer_Engenharia">
